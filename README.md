@@ -25,6 +25,3 @@
 
 > EN-NASSIRY Mohammed
 
-
-CREATE USER 'ennassiry'@'localhost'
-IDENTIFIED BY 'mohammed@2004';
